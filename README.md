@@ -10,6 +10,13 @@ Combine several blogs to one blog to store them all
 (link to original?)
 
 
+# Possible parts of solution
+
+* :white_check_mark: the "Storage blog" as GH .io page 
+* :white_large_square: https://libgit2.github.com/ 
+* :white_large_square: RSS->Slack->GH ?
+
+
 # Ultimate wishlist
 
 Statistics across all blogs
@@ -19,4 +26,6 @@ Statistics across all blogs
 * link indexes?
 
 
+# Misc
+* http://www.webpagefx.com/tools/emoji-cheat-sheet/ 
 
